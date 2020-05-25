@@ -1,1 +1,2 @@
 # MAPublisher
+MAPublisher training tutorial
